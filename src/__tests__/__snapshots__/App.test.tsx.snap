@@ -1,0 +1,35 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`should render App correctly 1`] = `
+<App>
+  <div
+    style={
+      Object {
+        "textAlign": "center",
+      }
+    }
+  >
+    <h2>
+      Colors Board
+    </h2>
+    <div
+      style={
+        Object {
+          "border": "1px solid gray",
+          "height": 500,
+          "margin": "0 auto",
+          "width": 500,
+        }
+      }
+    >
+      <DndProvider
+        backend={[Function]}
+      >
+        <Component>
+          <mock-board />
+        </Component>
+      </DndProvider>
+    </div>
+  </div>
+</App>
+`;

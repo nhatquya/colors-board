@@ -1,0 +1,1425 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Board should render board squares correctly 1`] = `
+<Board>
+  <div
+    style={
+      Object {
+        "display": "flex",
+        "flexWrap": "wrap",
+        "height": "100%",
+        "width": "100%",
+      }
+    }
+  >
+    <Component
+      color="#FFB3B3"
+      key="x-0-y0"
+      position={
+        Object {
+          "x": 0,
+          "y": 0,
+        }
+      }
+      swapSquare={[Function]}
+    >
+      <mock-board-square
+        color="#FFB3B3"
+        position={
+          Object {
+            "x": 0,
+            "y": 0,
+          }
+        }
+        swapSquare={[Function]}
+      />
+    </Component>
+    <Component
+      color="#FFDAB3"
+      key="x-0-y1"
+      position={
+        Object {
+          "x": 0,
+          "y": 1,
+        }
+      }
+      swapSquare={[Function]}
+    >
+      <mock-board-square
+        color="#FFDAB3"
+        position={
+          Object {
+            "x": 0,
+            "y": 1,
+          }
+        }
+        swapSquare={[Function]}
+      />
+    </Component>
+    <Component
+      color="#FFFFB3"
+      key="x-0-y2"
+      position={
+        Object {
+          "x": 0,
+          "y": 2,
+        }
+      }
+      swapSquare={[Function]}
+    >
+      <mock-board-square
+        color="#FFFFB3"
+        position={
+          Object {
+            "x": 0,
+            "y": 2,
+          }
+        }
+        swapSquare={[Function]}
+      />
+    </Component>
+    <Component
+      color="#DAFFB3"
+      key="x-0-y3"
+      position={
+        Object {
+          "x": 0,
+          "y": 3,
+        }
+      }
+      swapSquare={[Function]}
+    >
+      <mock-board-square
+        color="#DAFFB3"
+        position={
+          Object {
+            "x": 0,
+            "y": 3,
+          }
+        }
+        swapSquare={[Function]}
+      />
+    </Component>
+    <Component
+      color="#B3FFB3"
+      key="x-0-y4"
+      position={
+        Object {
+          "x": 0,
+          "y": 4,
+        }
+      }
+      swapSquare={[Function]}
+    >
+      <mock-board-square
+        color="#B3FFB3"
+        position={
+          Object {
+            "x": 0,
+            "y": 4,
+          }
+        }
+        swapSquare={[Function]}
+      />
+    </Component>
+    <Component
+      color="#B3FFDA"
+      key="x-0-y5"
+      position={
+        Object {
+          "x": 0,
+          "y": 5,
+        }
+      }
+      swapSquare={[Function]}
+    >
+      <mock-board-square
+        color="#B3FFDA"
+        position={
+          Object {
+            "x": 0,
+            "y": 5,
+          }
+        }
+        swapSquare={[Function]}
+      />
+    </Component>
+    <Component
+      color="#B3FFFF"
+      key="x-0-y6"
+      position={
+        Object {
+          "x": 0,
+          "y": 6,
+        }
+      }
+      swapSquare={[Function]}
+    >
+      <mock-board-square
+        color="#B3FFFF"
+        position={
+          Object {
+            "x": 0,
+            "y": 6,
+          }
+        }
+        swapSquare={[Function]}
+      />
+    </Component>
+    <Component
+      color="#B3DAFF"
+      key="x-0-y7"
+      position={
+        Object {
+          "x": 0,
+          "y": 7,
+        }
+      }
+      swapSquare={[Function]}
+    >
+      <mock-board-square
+        color="#B3DAFF"
+        position={
+          Object {
+            "x": 0,
+            "y": 7,
+          }
+        }
+        swapSquare={[Function]}
+      />
+    </Component>
+    <Component
+      color="#FF6B6B"
+      key="x-1-y0"
+      position={
+        Object {
+          "x": 1,
+          "y": 0,
+        }
+      }
+      swapSquare={[Function]}
+    >
+      <mock-board-square
+        color="#FF6B6B"
+        position={
+          Object {
+            "x": 1,
+            "y": 0,
+          }
+        }
+        swapSquare={[Function]}
+      />
+    </Component>
+    <Component
+      color="#FFB66B"
+      key="x-1-y1"
+      position={
+        Object {
+          "x": 1,
+          "y": 1,
+        }
+      }
+      swapSquare={[Function]}
+    >
+      <mock-board-square
+        color="#FFB66B"
+        position={
+          Object {
+            "x": 1,
+            "y": 1,
+          }
+        }
+        swapSquare={[Function]}
+      />
+    </Component>
+    <Component
+      color="#FFFF6B"
+      key="x-1-y2"
+      position={
+        Object {
+          "x": 1,
+          "y": 2,
+        }
+      }
+      swapSquare={[Function]}
+    >
+      <mock-board-square
+        color="#FFFF6B"
+        position={
+          Object {
+            "x": 1,
+            "y": 2,
+          }
+        }
+        swapSquare={[Function]}
+      />
+    </Component>
+    <Component
+      color="#B6FF6B"
+      key="x-1-y3"
+      position={
+        Object {
+          "x": 1,
+          "y": 3,
+        }
+      }
+      swapSquare={[Function]}
+    >
+      <mock-board-square
+        color="#B6FF6B"
+        position={
+          Object {
+            "x": 1,
+            "y": 3,
+          }
+        }
+        swapSquare={[Function]}
+      />
+    </Component>
+    <Component
+      color="#6BFF6B"
+      key="x-1-y4"
+      position={
+        Object {
+          "x": 1,
+          "y": 4,
+        }
+      }
+      swapSquare={[Function]}
+    >
+      <mock-board-square
+        color="#6BFF6B"
+        position={
+          Object {
+            "x": 1,
+            "y": 4,
+          }
+        }
+        swapSquare={[Function]}
+      />
+    </Component>
+    <Component
+      color="#6BFFB6"
+      key="x-1-y5"
+      position={
+        Object {
+          "x": 1,
+          "y": 5,
+        }
+      }
+      swapSquare={[Function]}
+    >
+      <mock-board-square
+        color="#6BFFB6"
+        position={
+          Object {
+            "x": 1,
+            "y": 5,
+          }
+        }
+        swapSquare={[Function]}
+      />
+    </Component>
+    <Component
+      color="#6BFFFF"
+      key="x-1-y6"
+      position={
+        Object {
+          "x": 1,
+          "y": 6,
+        }
+      }
+      swapSquare={[Function]}
+    >
+      <mock-board-square
+        color="#6BFFFF"
+        position={
+          Object {
+            "x": 1,
+            "y": 6,
+          }
+        }
+        swapSquare={[Function]}
+      />
+    </Component>
+    <Component
+      color="#6BB6FF"
+      key="x-1-y7"
+      position={
+        Object {
+          "x": 1,
+          "y": 7,
+        }
+      }
+      swapSquare={[Function]}
+    >
+      <mock-board-square
+        color="#6BB6FF"
+        position={
+          Object {
+            "x": 1,
+            "y": 7,
+          }
+        }
+        swapSquare={[Function]}
+      />
+    </Component>
+    <Component
+      color="#FF2F2F"
+      key="x-2-y0"
+      position={
+        Object {
+          "x": 2,
+          "y": 0,
+        }
+      }
+      swapSquare={[Function]}
+    >
+      <mock-board-square
+        color="#FF2F2F"
+        position={
+          Object {
+            "x": 2,
+            "y": 0,
+          }
+        }
+        swapSquare={[Function]}
+      />
+    </Component>
+    <Component
+      color="#FF982F"
+      key="x-2-y1"
+      position={
+        Object {
+          "x": 2,
+          "y": 1,
+        }
+      }
+      swapSquare={[Function]}
+    >
+      <mock-board-square
+        color="#FF982F"
+        position={
+          Object {
+            "x": 2,
+            "y": 1,
+          }
+        }
+        swapSquare={[Function]}
+      />
+    </Component>
+    <Component
+      color="#FFFF2F"
+      key="x-2-y2"
+      position={
+        Object {
+          "x": 2,
+          "y": 2,
+        }
+      }
+      swapSquare={[Function]}
+    >
+      <mock-board-square
+        color="#FFFF2F"
+        position={
+          Object {
+            "x": 2,
+            "y": 2,
+          }
+        }
+        swapSquare={[Function]}
+      />
+    </Component>
+    <Component
+      color="#98FF2F"
+      key="x-2-y3"
+      position={
+        Object {
+          "x": 2,
+          "y": 3,
+        }
+      }
+      swapSquare={[Function]}
+    >
+      <mock-board-square
+        color="#98FF2F"
+        position={
+          Object {
+            "x": 2,
+            "y": 3,
+          }
+        }
+        swapSquare={[Function]}
+      />
+    </Component>
+    <Component
+      color="#2FFF2F"
+      key="x-2-y4"
+      position={
+        Object {
+          "x": 2,
+          "y": 4,
+        }
+      }
+      swapSquare={[Function]}
+    >
+      <mock-board-square
+        color="#2FFF2F"
+        position={
+          Object {
+            "x": 2,
+            "y": 4,
+          }
+        }
+        swapSquare={[Function]}
+      />
+    </Component>
+    <Component
+      color="#2FFF98"
+      key="x-2-y5"
+      position={
+        Object {
+          "x": 2,
+          "y": 5,
+        }
+      }
+      swapSquare={[Function]}
+    >
+      <mock-board-square
+        color="#2FFF98"
+        position={
+          Object {
+            "x": 2,
+            "y": 5,
+          }
+        }
+        swapSquare={[Function]}
+      />
+    </Component>
+    <Component
+      color="#2FFFFF"
+      key="x-2-y6"
+      position={
+        Object {
+          "x": 2,
+          "y": 6,
+        }
+      }
+      swapSquare={[Function]}
+    >
+      <mock-board-square
+        color="#2FFFFF"
+        position={
+          Object {
+            "x": 2,
+            "y": 6,
+          }
+        }
+        swapSquare={[Function]}
+      />
+    </Component>
+    <Component
+      color="#2F98FF"
+      key="x-2-y7"
+      position={
+        Object {
+          "x": 2,
+          "y": 7,
+        }
+      }
+      swapSquare={[Function]}
+    >
+      <mock-board-square
+        color="#2F98FF"
+        position={
+          Object {
+            "x": 2,
+            "y": 7,
+          }
+        }
+        swapSquare={[Function]}
+      />
+    </Component>
+    <Component
+      color="#FC0000"
+      key="x-3-y0"
+      position={
+        Object {
+          "x": 3,
+          "y": 0,
+        }
+      }
+      swapSquare={[Function]}
+    >
+      <mock-board-square
+        color="#FC0000"
+        position={
+          Object {
+            "x": 3,
+            "y": 0,
+          }
+        }
+        swapSquare={[Function]}
+      />
+    </Component>
+    <Component
+      color="#FC7F00"
+      key="x-3-y1"
+      position={
+        Object {
+          "x": 3,
+          "y": 1,
+        }
+      }
+      swapSquare={[Function]}
+    >
+      <mock-board-square
+        color="#FC7F00"
+        position={
+          Object {
+            "x": 3,
+            "y": 1,
+          }
+        }
+        swapSquare={[Function]}
+      />
+    </Component>
+    <Component
+      color="#FCFC00"
+      key="x-3-y2"
+      position={
+        Object {
+          "x": 3,
+          "y": 2,
+        }
+      }
+      swapSquare={[Function]}
+    >
+      <mock-board-square
+        color="#FCFC00"
+        position={
+          Object {
+            "x": 3,
+            "y": 2,
+          }
+        }
+        swapSquare={[Function]}
+      />
+    </Component>
+    <Component
+      color="#7FFC00"
+      key="x-3-y3"
+      position={
+        Object {
+          "x": 3,
+          "y": 3,
+        }
+      }
+      swapSquare={[Function]}
+    >
+      <mock-board-square
+        color="#7FFC00"
+        position={
+          Object {
+            "x": 3,
+            "y": 3,
+          }
+        }
+        swapSquare={[Function]}
+      />
+    </Component>
+    <Component
+      color="#00FC00"
+      key="x-3-y4"
+      position={
+        Object {
+          "x": 3,
+          "y": 4,
+        }
+      }
+      swapSquare={[Function]}
+    >
+      <mock-board-square
+        color="#00FC00"
+        position={
+          Object {
+            "x": 3,
+            "y": 4,
+          }
+        }
+        swapSquare={[Function]}
+      />
+    </Component>
+    <Component
+      color="#00FC7F"
+      key="x-3-y5"
+      position={
+        Object {
+          "x": 3,
+          "y": 5,
+        }
+      }
+      swapSquare={[Function]}
+    >
+      <mock-board-square
+        color="#00FC7F"
+        position={
+          Object {
+            "x": 3,
+            "y": 5,
+          }
+        }
+        swapSquare={[Function]}
+      />
+    </Component>
+    <Component
+      color="#00FCFC"
+      key="x-3-y6"
+      position={
+        Object {
+          "x": 3,
+          "y": 6,
+        }
+      }
+      swapSquare={[Function]}
+    >
+      <mock-board-square
+        color="#00FCFC"
+        position={
+          Object {
+            "x": 3,
+            "y": 6,
+          }
+        }
+        swapSquare={[Function]}
+      />
+    </Component>
+    <Component
+      color="#007FFC"
+      key="x-3-y7"
+      position={
+        Object {
+          "x": 3,
+          "y": 7,
+        }
+      }
+      swapSquare={[Function]}
+    >
+      <mock-board-square
+        color="#007FFC"
+        position={
+          Object {
+            "x": 3,
+            "y": 7,
+          }
+        }
+        swapSquare={[Function]}
+      />
+    </Component>
+    <Component
+      color="#D20000"
+      key="x-4-y0"
+      position={
+        Object {
+          "x": 4,
+          "y": 0,
+        }
+      }
+      swapSquare={[Function]}
+    >
+      <mock-board-square
+        color="#D20000"
+        position={
+          Object {
+            "x": 4,
+            "y": 0,
+          }
+        }
+        swapSquare={[Function]}
+      />
+    </Component>
+    <Component
+      color="#D26A00"
+      key="x-4-y1"
+      position={
+        Object {
+          "x": 4,
+          "y": 1,
+        }
+      }
+      swapSquare={[Function]}
+    >
+      <mock-board-square
+        color="#D26A00"
+        position={
+          Object {
+            "x": 4,
+            "y": 1,
+          }
+        }
+        swapSquare={[Function]}
+      />
+    </Component>
+    <Component
+      color="#D2D200"
+      key="x-4-y2"
+      position={
+        Object {
+          "x": 4,
+          "y": 2,
+        }
+      }
+      swapSquare={[Function]}
+    >
+      <mock-board-square
+        color="#D2D200"
+        position={
+          Object {
+            "x": 4,
+            "y": 2,
+          }
+        }
+        swapSquare={[Function]}
+      />
+    </Component>
+    <Component
+      color="#6AD200"
+      key="x-4-y3"
+      position={
+        Object {
+          "x": 4,
+          "y": 3,
+        }
+      }
+      swapSquare={[Function]}
+    >
+      <mock-board-square
+        color="#6AD200"
+        position={
+          Object {
+            "x": 4,
+            "y": 3,
+          }
+        }
+        swapSquare={[Function]}
+      />
+    </Component>
+    <Component
+      color="#00D200"
+      key="x-4-y4"
+      position={
+        Object {
+          "x": 4,
+          "y": 4,
+        }
+      }
+      swapSquare={[Function]}
+    >
+      <mock-board-square
+        color="#00D200"
+        position={
+          Object {
+            "x": 4,
+            "y": 4,
+          }
+        }
+        swapSquare={[Function]}
+      />
+    </Component>
+    <Component
+      color="#00D26A"
+      key="x-4-y5"
+      position={
+        Object {
+          "x": 4,
+          "y": 5,
+        }
+      }
+      swapSquare={[Function]}
+    >
+      <mock-board-square
+        color="#00D26A"
+        position={
+          Object {
+            "x": 4,
+            "y": 5,
+          }
+        }
+        swapSquare={[Function]}
+      />
+    </Component>
+    <Component
+      color="#00D2D2"
+      key="x-4-y6"
+      position={
+        Object {
+          "x": 4,
+          "y": 6,
+        }
+      }
+      swapSquare={[Function]}
+    >
+      <mock-board-square
+        color="#00D2D2"
+        position={
+          Object {
+            "x": 4,
+            "y": 6,
+          }
+        }
+        swapSquare={[Function]}
+      />
+    </Component>
+    <Component
+      color="#006AD2"
+      key="x-4-y7"
+      position={
+        Object {
+          "x": 4,
+          "y": 7,
+        }
+      }
+      swapSquare={[Function]}
+    >
+      <mock-board-square
+        color="#006AD2"
+        position={
+          Object {
+            "x": 4,
+            "y": 7,
+          }
+        }
+        swapSquare={[Function]}
+      />
+    </Component>
+    <Component
+      color="#AF0000"
+      key="x-5-y0"
+      position={
+        Object {
+          "x": 5,
+          "y": 0,
+        }
+      }
+      swapSquare={[Function]}
+    >
+      <mock-board-square
+        color="#AF0000"
+        position={
+          Object {
+            "x": 5,
+            "y": 0,
+          }
+        }
+        swapSquare={[Function]}
+      />
+    </Component>
+    <Component
+      color="#AF5800"
+      key="x-5-y1"
+      position={
+        Object {
+          "x": 5,
+          "y": 1,
+        }
+      }
+      swapSquare={[Function]}
+    >
+      <mock-board-square
+        color="#AF5800"
+        position={
+          Object {
+            "x": 5,
+            "y": 1,
+          }
+        }
+        swapSquare={[Function]}
+      />
+    </Component>
+    <Component
+      color="#AFAF00"
+      key="x-5-y2"
+      position={
+        Object {
+          "x": 5,
+          "y": 2,
+        }
+      }
+      swapSquare={[Function]}
+    >
+      <mock-board-square
+        color="#AFAF00"
+        position={
+          Object {
+            "x": 5,
+            "y": 2,
+          }
+        }
+        swapSquare={[Function]}
+      />
+    </Component>
+    <Component
+      color="#58AF00"
+      key="x-5-y3"
+      position={
+        Object {
+          "x": 5,
+          "y": 3,
+        }
+      }
+      swapSquare={[Function]}
+    >
+      <mock-board-square
+        color="#58AF00"
+        position={
+          Object {
+            "x": 5,
+            "y": 3,
+          }
+        }
+        swapSquare={[Function]}
+      />
+    </Component>
+    <Component
+      color="#00AF00"
+      key="x-5-y4"
+      position={
+        Object {
+          "x": 5,
+          "y": 4,
+        }
+      }
+      swapSquare={[Function]}
+    >
+      <mock-board-square
+        color="#00AF00"
+        position={
+          Object {
+            "x": 5,
+            "y": 4,
+          }
+        }
+        swapSquare={[Function]}
+      />
+    </Component>
+    <Component
+      color="#00AF58"
+      key="x-5-y5"
+      position={
+        Object {
+          "x": 5,
+          "y": 5,
+        }
+      }
+      swapSquare={[Function]}
+    >
+      <mock-board-square
+        color="#00AF58"
+        position={
+          Object {
+            "x": 5,
+            "y": 5,
+          }
+        }
+        swapSquare={[Function]}
+      />
+    </Component>
+    <Component
+      color="#00AFAF"
+      key="x-5-y6"
+      position={
+        Object {
+          "x": 5,
+          "y": 6,
+        }
+      }
+      swapSquare={[Function]}
+    >
+      <mock-board-square
+        color="#00AFAF"
+        position={
+          Object {
+            "x": 5,
+            "y": 6,
+          }
+        }
+        swapSquare={[Function]}
+      />
+    </Component>
+    <Component
+      color="#0058AF"
+      key="x-5-y7"
+      position={
+        Object {
+          "x": 5,
+          "y": 7,
+        }
+      }
+      swapSquare={[Function]}
+    >
+      <mock-board-square
+        color="#0058AF"
+        position={
+          Object {
+            "x": 5,
+            "y": 7,
+          }
+        }
+        swapSquare={[Function]}
+      />
+    </Component>
+    <Component
+      color="#920000"
+      key="x-6-y0"
+      position={
+        Object {
+          "x": 6,
+          "y": 0,
+        }
+      }
+      swapSquare={[Function]}
+    >
+      <mock-board-square
+        color="#920000"
+        position={
+          Object {
+            "x": 6,
+            "y": 0,
+          }
+        }
+        swapSquare={[Function]}
+      />
+    </Component>
+    <Component
+      color="#924900"
+      key="x-6-y1"
+      position={
+        Object {
+          "x": 6,
+          "y": 1,
+        }
+      }
+      swapSquare={[Function]}
+    >
+      <mock-board-square
+        color="#924900"
+        position={
+          Object {
+            "x": 6,
+            "y": 1,
+          }
+        }
+        swapSquare={[Function]}
+      />
+    </Component>
+    <Component
+      color="#929200"
+      key="x-6-y2"
+      position={
+        Object {
+          "x": 6,
+          "y": 2,
+        }
+      }
+      swapSquare={[Function]}
+    >
+      <mock-board-square
+        color="#929200"
+        position={
+          Object {
+            "x": 6,
+            "y": 2,
+          }
+        }
+        swapSquare={[Function]}
+      />
+    </Component>
+    <Component
+      color="#499200"
+      key="x-6-y3"
+      position={
+        Object {
+          "x": 6,
+          "y": 3,
+        }
+      }
+      swapSquare={[Function]}
+    >
+      <mock-board-square
+        color="#499200"
+        position={
+          Object {
+            "x": 6,
+            "y": 3,
+          }
+        }
+        swapSquare={[Function]}
+      />
+    </Component>
+    <Component
+      color="#009200"
+      key="x-6-y4"
+      position={
+        Object {
+          "x": 6,
+          "y": 4,
+        }
+      }
+      swapSquare={[Function]}
+    >
+      <mock-board-square
+        color="#009200"
+        position={
+          Object {
+            "x": 6,
+            "y": 4,
+          }
+        }
+        swapSquare={[Function]}
+      />
+    </Component>
+    <Component
+      color="#009249"
+      key="x-6-y5"
+      position={
+        Object {
+          "x": 6,
+          "y": 5,
+        }
+      }
+      swapSquare={[Function]}
+    >
+      <mock-board-square
+        color="#009249"
+        position={
+          Object {
+            "x": 6,
+            "y": 5,
+          }
+        }
+        swapSquare={[Function]}
+      />
+    </Component>
+    <Component
+      color="#009292"
+      key="x-6-y6"
+      position={
+        Object {
+          "x": 6,
+          "y": 6,
+        }
+      }
+      swapSquare={[Function]}
+    >
+      <mock-board-square
+        color="#009292"
+        position={
+          Object {
+            "x": 6,
+            "y": 6,
+          }
+        }
+        swapSquare={[Function]}
+      />
+    </Component>
+    <Component
+      color="#004992"
+      key="x-6-y7"
+      position={
+        Object {
+          "x": 6,
+          "y": 7,
+        }
+      }
+      swapSquare={[Function]}
+    >
+      <mock-board-square
+        color="#004992"
+        position={
+          Object {
+            "x": 6,
+            "y": 7,
+          }
+        }
+        swapSquare={[Function]}
+      />
+    </Component>
+    <Component
+      color="#7A0000"
+      key="x-7-y0"
+      position={
+        Object {
+          "x": 7,
+          "y": 0,
+        }
+      }
+      swapSquare={[Function]}
+    >
+      <mock-board-square
+        color="#7A0000"
+        position={
+          Object {
+            "x": 7,
+            "y": 0,
+          }
+        }
+        swapSquare={[Function]}
+      />
+    </Component>
+    <Component
+      color="#7A3D00"
+      key="x-7-y1"
+      position={
+        Object {
+          "x": 7,
+          "y": 1,
+        }
+      }
+      swapSquare={[Function]}
+    >
+      <mock-board-square
+        color="#7A3D00"
+        position={
+          Object {
+            "x": 7,
+            "y": 1,
+          }
+        }
+        swapSquare={[Function]}
+      />
+    </Component>
+    <Component
+      color="#7A7A00"
+      key="x-7-y2"
+      position={
+        Object {
+          "x": 7,
+          "y": 2,
+        }
+      }
+      swapSquare={[Function]}
+    >
+      <mock-board-square
+        color="#7A7A00"
+        position={
+          Object {
+            "x": 7,
+            "y": 2,
+          }
+        }
+        swapSquare={[Function]}
+      />
+    </Component>
+    <Component
+      color="#3D7A00"
+      key="x-7-y3"
+      position={
+        Object {
+          "x": 7,
+          "y": 3,
+        }
+      }
+      swapSquare={[Function]}
+    >
+      <mock-board-square
+        color="#3D7A00"
+        position={
+          Object {
+            "x": 7,
+            "y": 3,
+          }
+        }
+        swapSquare={[Function]}
+      />
+    </Component>
+    <Component
+      color="#007A00"
+      key="x-7-y4"
+      position={
+        Object {
+          "x": 7,
+          "y": 4,
+        }
+      }
+      swapSquare={[Function]}
+    >
+      <mock-board-square
+        color="#007A00"
+        position={
+          Object {
+            "x": 7,
+            "y": 4,
+          }
+        }
+        swapSquare={[Function]}
+      />
+    </Component>
+    <Component
+      color="#007A3D"
+      key="x-7-y5"
+      position={
+        Object {
+          "x": 7,
+          "y": 5,
+        }
+      }
+      swapSquare={[Function]}
+    >
+      <mock-board-square
+        color="#007A3D"
+        position={
+          Object {
+            "x": 7,
+            "y": 5,
+          }
+        }
+        swapSquare={[Function]}
+      />
+    </Component>
+    <Component
+      color="#007A7A"
+      key="x-7-y6"
+      position={
+        Object {
+          "x": 7,
+          "y": 6,
+        }
+      }
+      swapSquare={[Function]}
+    >
+      <mock-board-square
+        color="#007A7A"
+        position={
+          Object {
+            "x": 7,
+            "y": 6,
+          }
+        }
+        swapSquare={[Function]}
+      />
+    </Component>
+    <Component
+      color="#003D7A"
+      key="x-7-y7"
+      position={
+        Object {
+          "x": 7,
+          "y": 7,
+        }
+      }
+      swapSquare={[Function]}
+    >
+      <mock-board-square
+        color="#003D7A"
+        position={
+          Object {
+            "x": 7,
+            "y": 7,
+          }
+        }
+        swapSquare={[Function]}
+      />
+    </Component>
+  </div>
+</Board>
+`;
